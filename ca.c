@@ -6,3 +6,4 @@ int a,b;
 printf("%d",add(a,b))
 printf("%d",mul(c,d))
 }
+nj
